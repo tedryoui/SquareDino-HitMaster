@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b959c07af0f4805a5260273953ab6d5, type: 3}
+  m_Name: Weapon With Particles Data
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 3177855230468455946, guid: 8f4e63ce9e15758409e2212e78c0737c,
+    type: 3}
+  projectileSpeed: 10
+  damage: 2
+  explodeForce: 100
+  hitProjectileParticles: {fileID: 1292922021565876165, guid: 479f1f77828a058448391ee4a298a6c2,
+    type: 3}
